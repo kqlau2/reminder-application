@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/reminder-application/static/css/main.f855e6bc.css",
-    "main.js": "/reminder-application/static/js/main.3962a400.js",
-    "static/js/453.bed5d6e7.chunk.js": "/reminder-application/static/js/453.bed5d6e7.chunk.js",
-    "static/media/logo.svg": "/reminder-application/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/reminder-application/static/css/main.b9924606.css",
+    "main.js": "/reminder-application/static/js/main.c97cb9c7.js",
     "index.html": "/reminder-application/index.html",
-    "main.f855e6bc.css.map": "/reminder-application/static/css/main.f855e6bc.css.map",
-    "main.3962a400.js.map": "/reminder-application/static/js/main.3962a400.js.map",
-    "453.bed5d6e7.chunk.js.map": "/reminder-application/static/js/453.bed5d6e7.chunk.js.map"
+    "main.b9924606.css.map": "/reminder-application/static/css/main.b9924606.css.map",
+    "main.c97cb9c7.js.map": "/reminder-application/static/js/main.c97cb9c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.3962a400.js"
+    "static/css/main.b9924606.css",
+    "static/js/main.c97cb9c7.js"
   ]
 }
