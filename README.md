@@ -43,7 +43,7 @@ npm start
     4. Triggers the [Github Action](https://github.com/kqlau2/reminder-application/actions).
 3. Validate the website https://kqlau2.github.io/reminder-application/
 ``` 
-    npm run deploy
+npm run deploy
 ```
 
 # Technology Stack
