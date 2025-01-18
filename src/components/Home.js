@@ -7,7 +7,7 @@ const Home = () => {
     return (
         <>
             <div className='home'>
-                <Typography variant='h3'>Welcome</Typography>
+                <Typography variant='h3'>Welcome 2025</Typography>
                 <div className='homeButtons'>
                     <Button style={{margin:'10px'}} variant='contained' onClick={()=>Navigate('/signup')}>
                         Signup
